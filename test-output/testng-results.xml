@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4165" started-at="2020-10-23T17:11:51 BST" finished-at="2020-10-23T17:11:55 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4165" started-at="2020-10-23T17:11:51 BST" finished-at="2020-10-23T17:11:55 BST">
+      <class name="TestGetRequest_Lamba">
+        <test-method status="PASS" signature="invokePostRequest()[pri:0, instance:TestGetRequest_Lamba@52e6fdee]" name="invokePostRequest" duration-ms="4075" started-at="2020-10-23T17:11:51 BST" finished-at="2020-10-23T17:11:55 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokePostRequest -->
+      </class> <!-- TestGetRequest_Lamba -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
